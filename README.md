@@ -1,5 +1,11 @@
 # Open Source IP
-Open source HTML slideshow around Open Source IP. Originally in OpenTalkware at GoogleCode.
+
+An introduction to Open Source IP in the form of a HTML slideshow.
+
+## Generating PDFs
+
+Those who prefer PDFs should try http://github.com/RobertBurrellDonkin/S5toPDF,
+a set of S5 stylesheets for Apache FOP.
 
 # OpenTalkware
 
